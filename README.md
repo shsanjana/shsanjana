@@ -1,4 +1,4 @@
-<img align="left" height="55" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 50%;">
+<img align="left" height="10" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
 <h1 align="center">Hi👋.I'm Sanjana Sharma</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p>
